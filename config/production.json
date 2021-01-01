@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bhima:bhima123@cluster0.1z2zj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "thisistokensecret"
+} 
